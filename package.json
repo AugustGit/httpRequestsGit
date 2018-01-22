@@ -1,0 +1,22 @@
+{
+  "name": "httprequestsgit",
+  "version": "1.0.0",
+  "description": "lighthouse assignment git requests ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustGit/httpRequestsGit.git"
+  },
+  "author": "austin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AugustGit/httpRequestsGit/issues"
+  },
+  "homepage": "https://github.com/AugustGit/httpRequestsGit#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
